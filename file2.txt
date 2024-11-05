@@ -1,1 +1,2 @@
-edit file2 di remote
+edit file2 di remote, update yang remote
+tambahan baris di repo lokal
